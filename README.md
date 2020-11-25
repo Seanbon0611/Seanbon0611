@@ -7,9 +7,9 @@
 - 🔭 I'm currently working on [CanGwenCook](https://admiring-mcnulty-e9a25f.netlify.app/), a website for a Youtube content creator
 - 🌱 I’m currently learning **Go(golang)**
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to contact me: **seandever.developer@gmail.com**
+- 📫 How to reach me: **seandever.developer@gmail.com**
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: It's okay to like pineapples on pizza 🍍
+- ⚡ Fun fact: I'm also a DJ! Check out some of my mixes [here](https://soundcloud.com/sean-mcshwagg-dever/tracks)
 
 ### Connect with me:
 [<img align="left" alt="SeanDever | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
