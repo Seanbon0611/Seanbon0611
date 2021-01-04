@@ -8,24 +8,24 @@
 - 🌱 I’m currently learning **Go(golang)**
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: **seandever.developer@gmail.com**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn AWS & Kubernetes
 - ⚡ Fun fact: I'm also a DJ! Check out some of my mixes [here](https://soundcloud.com/sean-mcshwagg-dever/tracks)
 
 ### Connect with me:
 [<img align="left" alt="SeanDever | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SeanDever | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-<a href="mailto:seandever.developer@gmail.com" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/666/666162.png" alt="seandever.develoepr@gmail.com" width="30px" /></a>
+<a href="mailto:seandever.developer@gmail.com" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/666/666162.png" alt="seandever.developer@gmail.com" width="30px" /></a>
 <br />
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Ruby" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" />
+<img align="left" alt="Ruby" width="40px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />
 <img align="left" width="40px" alt="Go" src="https://img.icons8.com/color/452/golang.png"/>
-<img align="left" width="40px" alt="RubyonRails" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"/>
+<img align="left" width="40px" alt="RubyonRails" src="https://cpng.pikpng.com/pngl/s/447-4476025_ruby-on-rails-logo-ruby-on-rails-icon.png"/>
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
