@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Ruby" width="40px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />
 <img align="left" width="40px" alt="Go" src="https://img.icons8.com/color/452/golang.png"/>
-<img align="left" width="40px" alt="RubyonRails" src="https://cpng.pikpng.com/pngl/s/447-4476025_ruby-on-rails-logo-ruby-on-rails-icon.png"/>
+<img align="left" width="40px" alt="RubyonRails" src="https://cdn.changelog.com/uploads/icons/topics/qw/icon_small.png?v=63684173534"/>
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
