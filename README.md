@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on [CanGwenCook](https://admiring-mcnulty-e9a25f.netlify.app/), a website for a Youtube content creator
 - 🌱 I’m currently learning **Go(golang)**
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 📫 How to reach me: **seandever.developer@gmail.com**
 - 🥅 2021 Goals: Learn AWS & Kubernetes
 - ⚡ Fun fact: I'm also a DJ! Check out some of my mixes [here](https://soundcloud.com/sean-mcshwagg-dever/tracks)
