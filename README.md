@@ -57,7 +57,7 @@
 
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Seanbon0611's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seanbon0611&show_icons=true&hide_border=true&hide=stars" />
+  <img align="left" alt="Seanbon0611's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Seanbon0611&show_icons=true&hide_border=true&hide=stars" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanbon0611&layout=compact&hide=css&hide_border=true" alt="seanbon0611" />
 
 
