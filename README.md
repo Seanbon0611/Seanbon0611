@@ -14,7 +14,6 @@
 ### Connect with me:
 [<img align="left" alt="SeanDever | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SeanDever | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-<a href="mailto:seandever.developer@gmail.com" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/666/666162.png" alt="seandever.developer@gmail.com" width="30px" /></a>
 <br />
 <br />
 
